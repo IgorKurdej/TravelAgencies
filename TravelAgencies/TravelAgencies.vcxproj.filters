@@ -21,5 +21,8 @@
     <ClInclude Include="travel_agency.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="trip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

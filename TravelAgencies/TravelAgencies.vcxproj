@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClInclude Include="libs.h" />
     <ClInclude Include="travel_agency.h" />
+    <ClInclude Include="trip.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
