@@ -35,7 +35,7 @@
     <ClCompile Include="travel_agency_utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TripRepository.cpp">
+    <ClCompile Include="trip_repository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

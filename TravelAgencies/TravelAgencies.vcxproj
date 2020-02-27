@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="travel_agency_utils.cpp" />
-    <ClCompile Include="TripRepository.cpp" />
+    <ClCompile Include="trip_repository.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
