@@ -27,9 +27,15 @@
     <ClInclude Include="travel_agency_utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="trip_repository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="travel_agency_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TripRepository.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
