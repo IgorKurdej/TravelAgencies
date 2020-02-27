@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="db_connection.h" />
     <ClInclude Include="libs.h" />
     <ClInclude Include="travel_agency.h" />
     <ClInclude Include="travel_agency_utils.h" />
@@ -130,6 +131,7 @@
     <ClInclude Include="trip_repository.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="db_connection.cpp" />
     <ClCompile Include="travel_agency_utils.cpp" />
     <ClCompile Include="trip_repository.cpp" />
   </ItemGroup>
