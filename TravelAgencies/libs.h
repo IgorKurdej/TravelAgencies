@@ -12,6 +12,7 @@
 #include <algorithm>
 #include <optional>
 #include <sstream>
+#include <map>
 
 #include "json.hpp"
 #include "sqlite3.h"
